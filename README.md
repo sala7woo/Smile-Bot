@@ -1,2 +1,5 @@
 # Smile-Bot
-A unique discord bot.
+
+Hello,
+
+I'm Salah and I like to use node.js
